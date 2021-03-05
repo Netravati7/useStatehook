@@ -1,0 +1,16 @@
+body {
+  background-color: darksalmon;
+}
+.container {
+  background-color: mediumorchid;
+  margin: 160px;
+}
+
+.container h1 {
+  color: aliceblue;
+  text-align: center;
+}
+
+.container button {
+  background-color: olivedrab;
+}
